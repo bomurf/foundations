@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+}
+
+#profile-pic {
+  width: 10%;
+  border: 2px solid darkgoldenrod;
+}
+
+.profile-favorite {
+  display: block;
+  width: 10%;
+  border: 2px solid darkgoldenrod;
+}
